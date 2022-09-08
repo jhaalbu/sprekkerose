@@ -1,3 +1,5 @@
+#Utvikla av Niklas Kjenstadbakk Brede, Asplan Viak
+
 import streamlit as st
 from PIL import Image
 import io
